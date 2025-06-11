@@ -12,7 +12,8 @@ Preview of the shared datasheet timeline
 - Timeline view - https://timeline-dev-v0.dublincore.net
 - Table view - https://timeline-dev-v0.dublincore.net/table
 
-
+Mailing list:
+  - dc-timeline@dublincore.org
 
 People with write access to this repo (besides Tom, Nishad, and Sunny)
 - https://github.com/yunhyong-byte

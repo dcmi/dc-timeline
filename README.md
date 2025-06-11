@@ -5,6 +5,15 @@ Timeline project repository:
 - https://github.com/dcmi/dc-timeline/blob/main/README.md
 - https://github.com/dcmi/dc-timeline/issues/1 - first issue "Key developments" - put your thoughts here
 
+Shared Google Sheet for initial data collection
+- https://docs.google.com/spreadsheets/d/17bhPpCMCNPp03s4QOXfsuqf6J-FJieyZODF28wPEdQs/edit?usp=sharing
+
+Preview of the shared datasheet timeline
+- Timeline view - https://timeline-dev-v0.dublincore.net
+- Table view - https://timeline-dev-v0.dublincore.net/table
+
+
+
 People with write access to this repo (besides Tom, Nishad, and Sunny)
 - https://github.com/yunhyong-byte
 
